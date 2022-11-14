@@ -21,7 +21,6 @@ String load = "0";
 
 void setup(void) {
   display.begin();
-  display.print("Bilal");
   sensor.begin();
 
   delay(2000);
